@@ -1,5 +1,5 @@
 # 💫 About Me:
-an undergraduate engineering student with a strong interest in Data Structures, problem solving, and backend development.<br>I use this GitHub to share academic projects, practice code, and full-stack applications, and to continuously improve my software engineering skills.C++, Data Structures & Algorithms, and web application development.<br>This GitHub contains project implementations, algorithmic practice, and system-level programming work.
+An undergraduate engineering student with a strong interest in Data Structures, problem solving, and backend development.<br>I use this GitHub to share academic projects, practice code, and full-stack applications, and to continuously improve my software engineering skills.C++, Data Structures & Algorithms, and web application development.<br>This GitHub contains project implementations, algorithmic practice, and system-level programming work.
 
 
 ## 🌐 Socials:
